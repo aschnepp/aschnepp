@@ -5,7 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aschnepp&show_icons=true&theme=high-contrast" alt="GitHub stats">
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aschnepp&hide=javascript,css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aschnepp)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aschnepp&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
