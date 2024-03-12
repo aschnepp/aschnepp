@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">A student at CESI Lingolsheim in France</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/antho.snp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antho.snp" height="30" width="40" /></a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aschnepp&show_icons=true&theme=high-contrast)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aschnepp&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
