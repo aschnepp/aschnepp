@@ -2,7 +2,7 @@
 <h3 align="center">Student at CESI Lingolsheim 🇫🇷 | Full Stack Developer in progress</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aschnepp&show_icons=true&theme=high-contrast" alt="GitHub stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aschnepp&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -27,6 +27,12 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -41,6 +47,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
   </a>
 </p>
 
@@ -68,5 +77,20 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ DevOps & Tools
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
